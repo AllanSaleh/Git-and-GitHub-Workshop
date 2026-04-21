@@ -9,3 +9,6 @@ git add filename.py
 
 To save the files that were in the staging area
 git commit -m "your commit message here"
+
+To add all files to staging area (getting all files ready to be saved)
+git add . (. means everything)
