@@ -1,0 +1,11 @@
+Initializing Git. (only the first time to start using git)
+git init
+
+Check the status of our files
+git status
+
+Adds the file to staging area (getting the file ready to be saved)
+git add filename.py
+
+To save the files that were in the staging area
+git commit -m "your commit message here"
